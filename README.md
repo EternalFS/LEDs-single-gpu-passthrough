@@ -1,3 +1,5 @@
+guide: https://www.reddit.com/r/VFIO/comments/mjnqmp/um_my_single_passthrough_guide_ye/
+
 # Single GPU Passthrough on Ryzen CPU
 These are my steps to set up QEMU/KVM with GPU passthrough as of 2021 March, 
 it works for me as I tried many times on different systems.
